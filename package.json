@@ -1,5 +1,8 @@
 {
   "name": "Portfolio",
+=======
+  "name": "Portfolio",
+>>>>>>> 869273ce242b7827ee22e73c6c4d37ba4278d0a1
   "version": "0.1.0",
   "private": true,
   "scripts": {
